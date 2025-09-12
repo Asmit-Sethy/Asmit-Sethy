@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">I'm currently a student pursuing my B.Tech in Computer Science Engineering with specialization in Computer Networking from SRM University, Kattankulathur.🎓 I’m all about coding in different languages like Python, C/C++, SQL and I love geeking out over the latest tech trends. 🚀<br><br>When I’m not buried in code, you’ll probably find me playing different video games 🎮. Playing football was my go-to, but quarantine has hit the pause button on that for now. 😢 On the bright side, I’m channeling that energy into appreciating some quality memes instead. 😂</p>
+<p align="left"I’m a <b>software enthusiast</b> currently pursuing my <b>M. Tech in Computer Science</b> at <b>IIIT-Delhi</b>.  
+Previously, I completed my <b>B. Tech in Computer Engineering</b> at SRM University, Kattankulathur. 🎓  
+
+My strengths lie in <b>Python</b> and <b>C/C++</b>, with a strong grasp of <b>data structures, algorithms, and problem-solving</b>.  
+I’m passionate about <b>software development</b> and <b>cybersecurity</b> 🔐 — actively working on building scalable, real-world solutions in these domains. 🚀  
+
+Beyond code, I enjoy <b>creative content production</b>, including <b>video editing</b> with tools like DaVinci Resolve and Adobe Premiere Pro.  
+I thrive in collaborative environments and am always eager to learn, adapt, and contribute to impactful projects.
+</p>
 
 ###
 
