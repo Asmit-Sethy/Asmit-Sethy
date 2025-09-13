@@ -22,7 +22,7 @@ Previously, I completed my <b>B. Tech in Computer Engineering</b> at SRM Univers
 My strengths lie in <b>Python</b> and <b>C/C++</b>, with a strong grasp of <b>data structures, algorithms, and problem-solving</b>.  
 I’m passionate about <b>software development</b> and <b>cybersecurity</b> 🔐 — actively working on building scalable, real-world solutions in these domains. 🚀  
 
-Beyond code, I enjoy <b>creative content production</b>, including <b>video editing</b> with tools like DaVinci Resolve and Adobe Premiere Pro.  
+Beyond code, I enjoy watching football and am also skilled in tools like DaVinci Resolve and Adobe Premiere Pro.  
 I thrive in collaborative environments and am always eager to learn, adapt, and contribute to impactful projects.
 </p>
 
